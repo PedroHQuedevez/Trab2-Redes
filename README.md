@@ -58,8 +58,6 @@ Este projeto é um jogo de adivinhação de números implementado em Python util
 
 - Implementação de uma interface gráfica para melhor experiência do usuário.
 - Suporte a configurações personalizadas (intervalo de números, tempo de espera, etc.).
-- Melhor tratamento de exceções e reconexão automática.
-- Registros detalhados de partidas para análise de estatísticas.
 
 ---
 

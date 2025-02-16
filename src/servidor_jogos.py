@@ -54,8 +54,8 @@ def remove_player(client):
         if player_id in turns_list:
             turns_list.remove(player_id)
         broadcast(f"O jogador {player_id} saiu do jogo.\n")
-        if turns_list:
-            update_turn()
+        #if turns_list:
+            #update_turn()
     client.close()
 
 # Função para desconectar todos os clientes e encerrar o servidor
